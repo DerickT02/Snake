@@ -1,4 +1,5 @@
-print("Hello World")
+from tkinter import *
 
-f = "efe"
-t = 8 
+root = Tk()
+
+root.mainloop()
